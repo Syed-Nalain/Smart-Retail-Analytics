@@ -12,17 +12,17 @@ Smart-Retail-Analytics/
 
    │
 
-   ├── main.py                 # Entry point to run the simulation and analysis
+   ├── main.py                
 
-   ├── rfm_analyzer.py         # Contains the RFMAnalyzer class and segmentation logic
+   ├── rfm_analyzer.py        
+   
+   ├── decision_tree.py        
 
-   ├── decision_tree.py        # (Optional) Contains decision tree implementation for churn prediction
+   ├── utils.py                
 
-   ├── utils.py                # Utility classes: Customer, Product, Transaction, TransactionSimulator, etc.
+   ├── requirements.txt       
 
-   ├── requirements.txt        # Python dependencies
-
-   └── README.md               # Project documentation
+   └── README.md              
 
 ## ⚙ Features
 
