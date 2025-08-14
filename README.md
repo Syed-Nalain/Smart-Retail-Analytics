@@ -1,4 +1,5 @@
-# Enhanced Customer Churn Analysis System
+# Smart Retail Analytics
+
 
 This project simulates realistic customer transactions and analyzes customer behavior using RFM (Recency, Frequency, Monetary) analysis. It identifies high-risk customers for churn, segments customers into meaningful groups, and generates actionable business insights.
 
