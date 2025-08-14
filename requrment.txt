@@ -1,0 +1,17 @@
+# Core dependencies
+pandas==2.2.2              # Data manipulation and analysis
+numpy==1.26.4              # Numerical computing support
+
+# Machine Learning
+scikit-learn==1.5.1        # Decision Tree model & ML utilities
+
+# Date and Time Utilities
+python-dateutil==2.9.0.post0  # Advanced date parsing and formatting
+
+# Optional (for visualizations and reporting)
+matplotlib==3.9.1          # Plotting and visualization
+seaborn==0.13.2            # Statistical data visualization
+
+# Development and Testing
+jupyter==1.0.0             # Interactive development
+ipython==8.26.0            # Enhanced interactive Python shell
