@@ -66,7 +66,7 @@ Smart-Retail-Analytics/
 
 * Clone the repository:
 
-   git clone [<repository_url>](https://github.com/Syed-Nalain/Smart-Retail-Analytics)
+   git clone https://github.com/Syed-Nalain/Smart-Retail-Analytics
    
 
 
