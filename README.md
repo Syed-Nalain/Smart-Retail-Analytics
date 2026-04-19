@@ -66,8 +66,8 @@ Smart-Retail-Analytics/
 
 * Clone the repository:
 
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone [<repository_url>](https://github.com/Syed-Nalain/Smart-Retail-Analytics)
+   
 
 
 * Install dependencies:
